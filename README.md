@@ -4,7 +4,7 @@ This is a simple URL shortener project that allows you to create and manage shor
 
 ## Backend Repository
 
-For the corresponding backend, visit the [Instant Tiny URL Backend](https://github.com/mhamid49/Instant-Tiny-URL-Backend).
+For the corresponding backend, visit the [Instant Tiny URL Backend](https://github.com/HamidByte/Instant-Tiny-URL-Backend).
 
 ## Prerequisites
 
@@ -23,7 +23,7 @@ Make sure you have the following software installed on your machine:
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/mhamid49/Instant-Tiny-URL-Frontend.git
+   git clone https://github.com/HamidByte/Instant-Tiny-URL-Frontend.git
    ```
 
 2. **Navigate to the Project Directory:**
@@ -34,7 +34,7 @@ Make sure you have the following software installed on your machine:
 
 3. **Configure Environment Variables:**
 
-    Create a .env file in the root of the project and set the following variables:
+   Create a .env file in the root of the project and set the following variables:
 
    ```env
     VITE_BASE_URL=http://127.0.0.1:5173
@@ -53,21 +53,21 @@ Make sure you have the following software installed on your machine:
 
 - Compile and Hot-Reload for Development:
 
-   ```sh
-   npm run dev
-   ```
+  ```sh
+  npm run dev
+  ```
 
 - Compile and Minify for Production:
 
-   ```sh
-   npm run build
-   ```
+  ```sh
+  npm run build
+  ```
 
 - Lint with [ESLint](https://eslint.org/):
 
-   ```sh
-   npm run lint
-   ```
+  ```sh
+  npm run lint
+  ```
 
 ## Customize configuration
 

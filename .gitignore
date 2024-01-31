@@ -8,6 +8,7 @@ coverage
 .eslintcache
 *.local
 .vscode
+package-lock.json
 
 /cypress/videos/
 /cypress/screenshots/
